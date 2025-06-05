@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Kiansharestani -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7F7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Kian+Sharestani+%F0%9F%91%8B;Python+Dev+%7C+Flask+%7C+Kotlin+%7C+Game+Creator+%7C+AI+Enthusiast;Welcome+to+My+GitHub+Universe+%F0%9F%92%AB" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7F7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Kian+%F0%9F%91%8B;Python+Dev+%7C+Flask+%7C+Kotlin+%7C+Game+Creator+%7C+AI+Enthusiast;Welcome+to+My+GitHub+Universe+%F0%9F%92%AB" alt="Typing Animation">
 </div>
 
 <div align="center">
