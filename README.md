@@ -24,7 +24,8 @@ Hi there! I'm **Kian Sharestani**, a creative, self-motivated developer with a s
 - 📱 Kotlin (Android apps)
 - 🎮 Game Dev with Ursina & Pygame
 - 📁 Bash + CLI utilities
-- 🧠 AI Enthusiast
+- 🧠 AI Enthusias
+- Google Apps Script (Gmail, Google Drive, Google Sheet For DB)
 
 ### 🤖 Favorite AI Tools:
 
@@ -47,6 +48,7 @@ Hi there! I'm **Kian Sharestani**, a creative, self-motivated developer with a s
 - 🎮 ساخت بازی با Ursina و Pygame
 - 📁 ابزارهای ترمینال با Bash
 - 💡 علاقه‌مند به هوش مصنوعی
+- گوگل اپس اسکریپت (جیمیل، گوگل درایو، گوگل شیت برای دیتا بیس)
 
 ### 🤖 هوش مصنوعی‌های مورد علاقه‌ام:
 
